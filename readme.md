@@ -74,27 +74,6 @@ EMAIL_PASS=sua_senha
 - GET /api/alerts/user/:userId - Buscar alertas de um usuário.
 
 ---
-    
-## **Estrutura do Projeto**
- 
-api-notificacoes-preco/
-│
-├── src/
-│   ├── config/           # Configurações do banco de dados
-│   ├── controllers/      # Lógica das rotas
-│   ├── models/           # Modelos do banco de dados
-│   ├── routes/           # Definição das rotas
-│   ├── services/         # Lógica de negócio (ex: buscar preços)
-│   ├── utils/            # Funções úteis (ex: enviar email)
-│   ├── app.js            # Configuração do Express
-│   └── server.js         # Iniciar o servidor
-│
-├── .env                  # Variáveis de ambiente
-├── .gitignore            # Ignorar node_modules e .env
-├── README.md             # Documentação do projeto
-└── package.json          # Dependências do projeto
-
----
 
 ## **Contribuição**
 
