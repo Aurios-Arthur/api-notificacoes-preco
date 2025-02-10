@@ -49,17 +49,7 @@ Esta API permite que os usuários cadastrem alertas de preço para produtos ou c
     ```bash
     npm install
 
-3. Configure o arquivo **.env:**
-
-DB_NAME=preco_notificacao
-DB_USER=root
-DB_PASSWORD=sua_senha
-DB_HOST=localhost
-PORT=5001
-EMAIL_USER=seu_email@gmail.com
-EMAIL_PASS=sua_senha
-
-4. Inicie o servidor:
+3. Inicie o servidor:
     ```bash
     node src/server.js
     
