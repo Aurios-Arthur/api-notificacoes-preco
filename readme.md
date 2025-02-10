@@ -50,7 +50,7 @@ Esta API permite que os usuários cadastrem alertas de preço para produtos ou c
     npm install
 
 3. Configure o arquivo **.env:**
-    ```bash
+
 DB_NAME=preco_notificacao
 DB_USER=root
 DB_PASSWORD=sua_senha
@@ -90,9 +90,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 5. Abra um Pull Request.
 
 ---
-
-## **Licença**
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## **Autor**
 
