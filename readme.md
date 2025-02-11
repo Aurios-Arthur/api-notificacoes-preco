@@ -43,8 +43,7 @@ Esta API permite que os usuários cadastrem alertas de preço para produtos ou c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/api-notificacoes-preco.git
-
+   git clone https://github.com/Aurios-Arthur/api-notificacoes-preco
 2. Instale as dependências:
     ```bash
     npm install
